@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?> <!-- Created with Vectornator for iOS (http://vectornator.io/) --><!DOCTYPE svg PUBLIC
+    "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="100%"
+    style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;"
+    version="1.1" viewBox="0 0 24 24" width="100%" xml:space="preserve"
+    xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+<metadata>
+<vectornator:setting key="IsTimeLapseWatermarkDisabled" value="false" />
+    <vectornator:setting key="UndoHistoryDisabled" value="true" />
+    <vectornator:setting key="VNDimensionsVisible" value="true" />
+    <vectornator:setting key="VNSnapToGuides" value="true" />
+    <vectornator:setting key="WDCMYKEnabledKey" value="false" />
+    <vectornator:setting key="WDDisplayWhiteBackground" value="false" />
+    <vectornator:setting key="WDDynamicGuides" value="false" />
+    <vectornator:setting key="WDGuidesVisible" value="true" />
+    <vectornator:setting key="WDIsolateActiveLayer" value="false" />
+    <vectornator:setting key="WDOutlineMode" value="false" />
+    <vectornator:setting key="WDRulersVisible" value="true" />
+    <vectornator:setting key="WDSnapToEdges" value="false" />
+    <vectornator:setting key="WDSnapToGrid" value="false" />
+    <vectornator:setting key="WDSnapToPoints" value="false" />
+    <vectornator:setting key="WDUnits" value="Points" />
+</metadata>
+    <defs />
+    <g id="Layer 1" vectornator:layerName="Layer 1">
+<g opacity="1">
+<path
+    d="M10 4C5.58172 4 2 7.58172 2 12C2 16.4183 5.58172 20 10 20C14.4183 20 18 16.4183 18 12C18 7.58172 14.4183 4 10 4ZM7.17437 7.17062C8.27894 7.17063 9.17437 8.06606 9.17437 9.17062C9.17437 10.2752 8.27895 11.1706 7.17437 11.1706C6.06981 11.1706 5.17437 10.2752 5.17437 9.17062C5.17437 8.06606 6.0698 7.17062 7.17437 7.17062Z"
+    fill="#757575" opacity="1" />
+    <path
+        d="M20 16L20 16C21.1046 16 22 16.8954 22 18L22 18C22 19.1046 21.1046 20 20 20L20 20C18.8954 20 18 19.1046 18 18L18 18C18 16.8954 18.8954 16 20 16Z"
+        fill="#757575" opacity="1" />
+</g>
+</g>
+</svg>
