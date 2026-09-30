@@ -38041,32 +38041,32 @@ r.b="Introvert"
 r.d="https://twitter.com/mzeealii"
 r.e="You Chirping?"
 r.c=this.r[0]
-r.x=B.LX
+r.x=B.LW
 r.z=B.M1
 q=new A.fW()
 q.a="GitHub"
 q.b="Engineer"
 q.d="https://github.com/mzeealii"
 q.e="Down To Fork"
-q.c="Solving world problems, one bug at a time. The usual."
-q.x=B.LO
+q.c="Solving world problems, one bug at a time."
+q.x=B.LN
 q.z=B.LK
 p=new A.fW()
 p.a="Instagram"
 p.b="Street Photographer"
 p.d="https://instagram.com/mzeealii"
 p.e="Slide In DM"
-p.c="When asleep, he dreams of using a Leica.\n\nWhen awake, carries his Fujifilm everywhere he goes."
+p.c="When asleep, dreaming of a Leica.\n\nWhen awake, carrying a Fujifilm."
 p.x=B.LI
-p.z=B.LN
+p.z=B.LM
 o=new A.fW()
-o.a="Teknogia"
-o.b="Writer & Tech Head"
-o.d="https://twitter.com/teknogia"
-o.e="Fresh In Ideas"
-o.c="Reading bridges our knowledge gaps. We're determined to help with that by covering the trends, histories, challenges and breakthroughs of science & tech."
-o.x=B.LU
-o.z=B.LL
+o.a="MIINGATRON"
+o.b="Tech Head"
+o.d="https://instagram.com/miingatron"
+o.e="Grab a Few"
+o.c="What's in my bag, really. Few high-quality, well-designed practical items."
+o.x=B.LX
+o.z=B.LU
 n=new A.fW()
 n.a="Olorok"
 n.b="CEO"
@@ -38074,7 +38074,7 @@ n.d="https://twitter.com/olorokaf"
 n.e="Black On"
 n.c="As a droplet, working to create waves from ripples. Research, tech and all."
 n.f="assets/vectors/olorok-glyff.svg"
-n.x=B.LW
+n.x=B.LV
 n.z=B.LJ
 m=new A.fW()
 m.a="Nywiila".toUpperCase()
@@ -38104,7 +38104,7 @@ o=A.cL(6)
 n=i.e?4:8
 m=i.c
 m.toString
-m=A.a9(m).ax.a===B.Z?B.LP:B.LR
+m=A.a9(m).ax.a===B.Z?B.LO:B.LQ
 l=i.c
 l.toString
 l=A.a9(l).ok.at
@@ -38123,7 +38123,7 @@ l=i.c
 l.toString
 l=A.a9(l).ok.at
 l=l==null?h:l.b
-o=A.qv(A.Wj(B.a2,r,l,B.LT,new A.aF(16,m,16,m),new A.afC(i)),new A.dA(p.at,h,h,n,h,h,B.aE),B.fn,g,B.dV,h,o.ok.z,s,h)
+o=A.qv(A.Wj(B.a2,r,l,B.LS,new A.aF(16,m,16,m),new A.afC(i)),new A.dA(p.at,h,h,n,h,h,B.aE),B.fn,g,B.dV,h,o.ok.z,s,h)
 g=i.c
 g.toString
 g=A.a9(g)
@@ -38136,7 +38136,7 @@ l=i.c
 l.toString
 l=A.a9(l).ok.at
 l=l==null?h:l.b
-g=A.qv(A.Wj(B.a2,r,l,B.LS,new A.aF(16,m,16,m),new A.afD()),new A.dA(n.at,h,h,p,h,h,B.aE),B.fn,"Gamepad",B.dV,h,g.ok.z,s,h)
+g=A.qv(A.Wj(B.a2,r,l,B.LR,new A.aF(16,m,16,m),new A.afD()),new A.dA(n.at,h,h,p,h,h,B.aE),B.fn,"Gamepad",B.dV,h,g.ok.z,s,h)
 p=A.a9F("forNerds")
 n=i.c
 n.toString
@@ -38317,7 +38317,7 @@ s=i.c
 n=A.a9(r).ok.at
 if(n==null)n=k
 else{m=A.a9(r).ok.z
-n=n.oy(m==null?k:m.r)}return new A.ql(new A.afm(j,l.b,i),new A.qx(new A.aG(0,1,t.Y),new A.afn(),new A.D8(l.d,l.e+16,A.fV(A.akh(A.c([p,A.fV(A.xF(B.cN,A.c([new A.dw(B.ii,k,k,new A.bX(B.L_,q,k),k),new A.dw(B.as,k,k,new A.bX(B.Lc,A.l0(A.i(s),k,k,k,n,B.aC),k),k),new A.dw(B.ls,k,k,new A.bX(B.KZ,A.pa(B.LM,A.a9(r).ch.hq(0.15),k,40),k),k)],o),B.eC),220,k),A.anT(B.M2,A.i(i.e),new A.afo(i),B.L0,k)],o),B.cY,B.KT,k,B.cu),k,h),!0,k),B.mF,B.iY,k,k,t.HN),k)},
+n=n.oy(m==null?k:m.r)}return new A.ql(new A.afm(j,l.b,i),new A.qx(new A.aG(0,1,t.Y),new A.afn(),new A.D8(l.d,l.e+16,A.fV(A.akh(A.c([p,A.fV(A.xF(B.cN,A.c([new A.dw(B.ii,k,k,new A.bX(B.L_,q,k),k),new A.dw(B.as,k,k,new A.bX(B.Lc,A.l0(A.i(s),k,k,k,n,B.aC),k),k),new A.dw(B.ls,k,k,new A.bX(B.KZ,A.pa(B.LL,A.a9(r).ch.hq(0.15),k,40),k),k)],o),B.eC),220,k),A.anT(B.M2,A.i(i.e),new A.afo(i),B.L0,k)],o),B.cY,B.KT,k,B.cu),k,h),!0,k),B.mF,B.iY,k,k,t.HN),k)},
 $S:298}
 A.afm.prototype={
 $1(a){return this.a.SM(this.b,this.c)},
@@ -38479,7 +38479,7 @@ $.h6().fI(t.FM).qi(s)},
 $iak:1}
 A.TT.prototype={}
 A.om.prototype={
-N(a){var s=null,r=A.pa(B.LV,A.a9(a).ch.hq(0.2),s,160),q=A.a9(a).ok.r
+N(a){var s=null,r=A.pa(B.LT,A.a9(a).ch.hq(0.2),s,160),q=A.a9(a).ok.r
 return A.alC(A.Xo(A.akh(A.c([r,B.a2O,new A.bX(B.j0,A.l0("Yep, you did it",s,s,s,q==null?s:q.oy(40),B.cb),s),new A.bX(B.L4,A.l0("Congrats! You've found a page that does not exist. If you are feeling lost...",s,s,s,A.a9(a).ok.as,B.cb),s),A.anT(s,"Go Home",new A.Wh(a),B.L7,16),B.a2N],t.E),B.aL,s,s,B.cu),s,s),s)}}
 A.Wh.prototype={
 $0(){var s=t.X
@@ -38528,7 +38528,7 @@ $1(a){return A.ar4(A.ap9(a),B.bO,0,50)},
 $S:104}
 A.BU.prototype={
 N(a){var s,r,q,p=this,o=null,n=p.d,m=n,l=A.arg(o,o,B.a2,o,o,o,o,o,o,o,o,B.a0,o,p.x,o,new A.cu(A.cL(6),B.y),o,o,B.za,o,o),k=p.c
-if(k==null)k=B.LQ
+if(k==null)k=B.LP
 s=A.a9(a)
 r=p.z
 if(r==null)r=14
@@ -71433,19 +71433,19 @@ B.LH=new A.uV(null)
 B.LI=new A.cd(61029,"RemixIcon","flutter_remix_icon",!1)
 B.LJ=new A.cd(61269,"RemixIcon","flutter_remix_icon",!1)
 B.LK=new A.cd(60166,"RemixIcon","flutter_remix_icon",!1)
-B.LL=new A.cd(61515,"RemixIcon","flutter_remix_icon",!1)
-B.LM=new A.cd(60498,"RemixIcon","flutter_remix_icon",!1)
-B.LN=new A.cd(62087,"RemixIcon","flutter_remix_icon",!1)
-B.LO=new A.cd(60874,"RemixIcon","flutter_remix_icon",!1)
-B.LP=new A.cd(61887,"RemixIcon","flutter_remix_icon",!1)
-B.LQ=new A.cd(60016,"RemixIcon","flutter_remix_icon",!1)
-B.LR=new A.cd(61301,"RemixIcon","flutter_remix_icon",!1)
-B.LS=new A.cd(60843,"RemixIcon","flutter_remix_icon",!1)
-B.LT=new A.cd(60729,"RemixIcon","flutter_remix_icon",!1)
-B.LU=new A.cd(62486,"RemixIcon","flutter_remix_icon",!1)
-B.LV=new A.cd(61995,"RemixIcon","flutter_remix_icon",!1)
-B.LW=new A.cd(60168,"RemixIcon","flutter_remix_icon",!1)
-B.LX=new A.cd(62010,"RemixIcon","flutter_remix_icon",!1)
+B.LL=new A.cd(60498,"RemixIcon","flutter_remix_icon",!1)
+B.LM=new A.cd(62087,"RemixIcon","flutter_remix_icon",!1)
+B.LN=new A.cd(60874,"RemixIcon","flutter_remix_icon",!1)
+B.LO=new A.cd(61887,"RemixIcon","flutter_remix_icon",!1)
+B.LP=new A.cd(60016,"RemixIcon","flutter_remix_icon",!1)
+B.LQ=new A.cd(61301,"RemixIcon","flutter_remix_icon",!1)
+B.LR=new A.cd(60843,"RemixIcon","flutter_remix_icon",!1)
+B.LS=new A.cd(60729,"RemixIcon","flutter_remix_icon",!1)
+B.LT=new A.cd(61995,"RemixIcon","flutter_remix_icon",!1)
+B.LU=new A.cd(61978,"RemixIcon","flutter_remix_icon",!1)
+B.LV=new A.cd(60168,"RemixIcon","flutter_remix_icon",!1)
+B.LW=new A.cd(62010,"RemixIcon","flutter_remix_icon",!1)
+B.LX=new A.cd(60148,"RemixIcon","flutter_remix_icon",!1)
 B.LY=new A.cd(60722,"RemixIcon","flutter_remix_icon",!1)
 B.LZ=new A.cd(61227,"RemixIcon","flutter_remix_icon",!1)
 B.M_=new A.cd(60497,"RemixIcon","flutter_remix_icon",!1)
