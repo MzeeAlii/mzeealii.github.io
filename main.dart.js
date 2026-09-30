@@ -38020,7 +38020,7 @@ $1(a){return B.lr},
 $S:159}
 A.fW.prototype={}
 A.ms.prototype={
-am(){return new A.Rt(new A.ce(null,t.sW),A.c(["To whom much is given, much is tested.","Doing all this for the win. Doing all this for the kids."],t.s))}}
+am(){return new A.Rt(new A.ce(null,t.sW),A.c(["To whom much is given, much is tested.","Every man has two lives, and the second one begins when realizes he only has one.","Life goes by real quick. So why waste a minute being timid?","The paradox of education is precisely this\u2014that as one begins to become conscious, one begins to examine the society in which he is being educated.","The greatest love seems indifferent, the greatest wisdom seems childish.","Specialization is for insects.","Art is dangerous. It is one of the attractions: when it ceases to be dangerous you don\u2019t want it."],t.s))}}
 A.Rt.prototype={
 l(){var s=this.y
 if(s!=null)s.fB(0)
@@ -38334,7 +38334,7 @@ $0(){var s,r=this.b,q=r.w=!1
 if(r.a.toLowerCase()==="twitter"?this.a.x:q){q=this.a
 s=q.w
 r.c=q.r[s]
-q.w=s===1?0:s+1}},
+q.w=s===6?0:s+1}},
 $S:0}
 A.afl.prototype={
 $0(){A.aju(A.hD("https://github.com/mzeealii",0,null))},
