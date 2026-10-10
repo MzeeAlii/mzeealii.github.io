@@ -37683,7 +37683,7 @@ s.b="Writer"
 s.d="https://medium.com/@mzeealii"
 s.e="Appreciate a Read"
 s.c="Just because you can, doesn\u2019t mean you should. Yet, here I go, writing.\n\nRespect to writers and authors."
-s.x=B.LG
+s.x=B.LH
 s.z=B.LM
 r=new A.fm()
 r.a="Twitter"
@@ -37691,7 +37691,7 @@ r.b="Introvert"
 r.d="https://twitter.com/mzeealii"
 r.e="You Chirping?"
 r.c=this.r[0]
-r.x=B.LD
+r.x=B.LE
 r.z=B.LK
 q=new A.fm()
 q.a="GitHub"
@@ -37699,8 +37699,8 @@ q.b="Engineer"
 q.d="https://github.com/mzeealii"
 q.e="Down To Fork"
 q.c="Solving world problems, one bug at a time."
-q.x=B.Lt
-q.z=B.Lq
+q.x=B.Lu
+q.z=B.Lr
 p=new A.fm()
 p.a="Instagram"
 p.b="Street Photographer"
@@ -37708,23 +37708,23 @@ p.d="https://instagram.com/mzeealii"
 p.e="Slide In DM"
 p.c="When asleep, dreaming of a Leica. When awake, carrying a Fujifilm."
 p.x=B.Lo
-p.z=B.Ls
+p.z=B.Lt
 o=new A.fm()
 o.a="MIINGATRON"
 o.b="Tech Head"
 o.d="https://instagram.com/miingatron"
 o.e="Grab a Few"
 o.c="What's in my bag, really. Few high-quality, well-designed practical items."
-o.x=B.LE
-o.z=B.LB
+o.x=B.LF
+o.z=B.LC
 n=new A.fm()
 n.a="NJIIMNET"
 n.b="Founder"
 n.d="https://njiim.net"
 n.e="Engine Start"
 n.c="Solving how people and businesses in Africa buy and power their vehicles."
-n.x=B.Lv
-n.z=B.LH
+n.x=B.Lw
+n.z=B.Lq
 m=new A.fm()
 m.a="Nywiila".toUpperCase()
 m.b="Aura Farmer"
@@ -37732,7 +37732,7 @@ m.d="https://twitter.com/nywiila"
 m.e="II"
 m.c="Dream. Wake up. Pray. Be you. Driip. Execute. Be better. Progress. We are uniited.".toUpperCase()
 m.x=B.LN
-m.z=B.LF
+m.z=B.LG
 l=new A.fm()
 l.a="Olorok"
 l.b="Dreamer"
@@ -37740,7 +37740,7 @@ l.d="https://twitter.com/olorokaf"
 l.e="IIJAYO"
 l.c="For the next Africa."
 l.f="assets/vectors/olorok-glyff.svg"
-l.x=B.LC
+l.x=B.LD
 l.z=B.Lp
 this.f=A.c([s,r,q,p,o,n,m,l],t.hw)},
 N(a){var s=this,r=null,q=A.dh(a,r,t.l).w.a.a<=720
@@ -37762,7 +37762,7 @@ o=A.cU(6)
 n=i.e?2:4
 m=i.c
 m.toString
-m=A.ab(m).ax.a===B.a_?B.Lu:B.Lx
+m=A.ab(m).ax.a===B.a_?B.Lv:B.Ly
 l=i.c
 l.toString
 l=A.ab(l).ok.at
@@ -37781,7 +37781,7 @@ l=i.c
 l.toString
 l=A.ab(l).ok.at
 l=l==null?h:l.b
-o=A.xQ(A.VL(B.a1,r,l,B.Lz,20,new A.aU(16,m,16,m),new A.aeK(i)),new A.dI(p.at,h,h,n,h,h,B.aJ),B.ff,g,B.dQ,h,o.ok.z,s,h)
+o=A.xQ(A.VL(B.a1,r,l,B.LA,20,new A.aU(16,m,16,m),new A.aeK(i)),new A.dI(p.at,h,h,n,h,h,B.aJ),B.ff,g,B.dQ,h,o.ok.z,s,h)
 g=i.c
 g.toString
 g=A.ab(g)
@@ -37794,7 +37794,7 @@ l=i.c
 l.toString
 l=A.ab(l).ok.at
 l=l==null?h:l.b
-g=A.xQ(A.VL(B.a1,r,l,B.Ly,20,new A.aU(16,m,16,m),new A.aeL()),new A.dI(n.at,h,h,p,h,h,B.aJ),B.ff,"Gamepad",B.dQ,h,g.ok.z,s,h)
+g=A.xQ(A.VL(B.a1,r,l,B.Lz,20,new A.aU(16,m,16,m),new A.aeL()),new A.dI(n.at,h,h,p,h,h,B.aJ),B.ff,"Gamepad",B.dQ,h,g.ok.z,s,h)
 p=A.a8X("forNerds")
 n=i.c
 n.toString
@@ -37975,7 +37975,7 @@ s=i.c
 n=A.ab(r).ok.at
 if(n==null)n=k
 else{m=A.ab(r).ok.z
-n=n.oa(m==null?k:m.r)}return new A.q2(new A.aeu(j,l.b,i),new A.qc(new A.aP(0,1,t.Y),new A.aev(),new A.CC(l.d,l.e+16,A.nf(A.aji(A.c([p,A.nf(A.xd(B.dv,A.c([new A.eY(B.i9,k,k,new A.cd(B.KH,q,k),k),new A.eY(B.ap,k,k,new A.cd(B.KS,A.kT(A.i(s),k,k,k,n,B.aI),k),k),new A.eY(B.lg,k,k,new A.cd(B.KG,A.oT(B.Lr,A.ab(r).ch.fA(0.15),k,40),k),k)],o),B.ev),220,k),A.amW(B.LL,A.i(i.e),new A.aew(i),B.KI,k)],o),B.cV,B.KB,k,B.cu),k,h),!0,k),B.iJ,B.iQ,k,k,t.HN),k)},
+n=n.oa(m==null?k:m.r)}return new A.q2(new A.aeu(j,l.b,i),new A.qc(new A.aP(0,1,t.Y),new A.aev(),new A.CC(l.d,l.e+16,A.nf(A.aji(A.c([p,A.nf(A.xd(B.dv,A.c([new A.eY(B.i9,k,k,new A.cd(B.KH,q,k),k),new A.eY(B.ap,k,k,new A.cd(B.KS,A.kT(A.i(s),k,k,k,n,B.aI),k),k),new A.eY(B.lg,k,k,new A.cd(B.KG,A.oT(B.Ls,A.ab(r).ch.fA(0.15),k,40),k),k)],o),B.ev),220,k),A.amW(B.LL,A.i(i.e),new A.aew(i),B.KI,k)],o),B.cV,B.KB,k,B.cu),k,h),!0,k),B.iJ,B.iQ,k,k,t.HN),k)},
 $S:252}
 A.aeu.prototype={
 $1(a){return this.a.RS(this.b,this.c)},
@@ -38190,7 +38190,7 @@ $.h0().i2(t.FM).pW(s)},
 $iak:1}
 A.Tk.prototype={}
 A.o7.prototype={
-N(a){var s=null,r=A.oT(B.LA,A.ab(a).ch.fA(0.2),s,160),q=A.ab(a).ok.r
+N(a){var s=null,r=A.oT(B.LB,A.ab(a).ch.fA(0.2),s,160),q=A.ab(a).ok.r
 return A.akE(A.WP(A.aji(A.c([r,B.a2t,new A.cd(B.mE,A.kT("Yep, you did it",s,s,s,q==null?s:q.oa(40),B.c6),s),new A.cd(B.KL,A.kT("Congrats! You've found a page that does not exist. If you are feeling lost...",s,s,s,A.ab(a).ok.as,B.c6),s),A.amW(s,"Go Home",new A.VJ(a),B.KN,16),B.a2s],t.E),B.aX,s,s,B.cu),s,s),s)}}
 A.VJ.prototype={
 $0(){var s=t.X
@@ -38237,7 +38237,7 @@ $1(a){return A.aq5(A.ao9(a),B.bK,0,50)},
 $S:97}
 A.Bm.prototype={
 N(a){var s,r,q,p=this,o=null,n=p.d,m=n,l=A.aC4(o,o,B.a1,o,o,o,o,o,o,o,o,B.a8,p.x,o,new A.cz(A.cU(6),B.y),o,o,B.yV,o,o),k=p.c
-if(k==null)k=B.Lw
+if(k==null)k=B.Lx
 s=A.ab(a)
 r=p.z
 if(r==null)r=14
@@ -69979,24 +69979,24 @@ B.Lm=new A.mg(null)
 B.Ln=new A.uz(null)
 B.Lo=new A.c4(61029,"RemixIcon","flutter_remix_icon",!1)
 B.Lp=new A.c4(61269,"RemixIcon","flutter_remix_icon",!1)
-B.Lq=new A.c4(60166,"RemixIcon","flutter_remix_icon",!1)
-B.Lr=new A.c4(60498,"RemixIcon","flutter_remix_icon",!1)
-B.Ls=new A.c4(62087,"RemixIcon","flutter_remix_icon",!1)
-B.Lt=new A.c4(60874,"RemixIcon","flutter_remix_icon",!1)
-B.Lu=new A.c4(61887,"RemixIcon","flutter_remix_icon",!1)
-B.Lv=new A.c4(62e3,"RemixIcon","flutter_remix_icon",!1)
-B.Lw=new A.c4(60016,"RemixIcon","flutter_remix_icon",!1)
-B.Lx=new A.c4(61301,"RemixIcon","flutter_remix_icon",!1)
-B.Ly=new A.c4(60843,"RemixIcon","flutter_remix_icon",!1)
-B.Lz=new A.c4(60729,"RemixIcon","flutter_remix_icon",!1)
-B.LA=new A.c4(61995,"RemixIcon","flutter_remix_icon",!1)
-B.LB=new A.c4(61978,"RemixIcon","flutter_remix_icon",!1)
-B.LC=new A.c4(60168,"RemixIcon","flutter_remix_icon",!1)
-B.LD=new A.c4(62010,"RemixIcon","flutter_remix_icon",!1)
-B.LE=new A.c4(60148,"RemixIcon","flutter_remix_icon",!1)
-B.LF=new A.c4(60722,"RemixIcon","flutter_remix_icon",!1)
-B.LG=new A.c4(61227,"RemixIcon","flutter_remix_icon",!1)
-B.LH=new A.c4(62737,"RemixIcon","flutter_remix_icon",!1)
+B.Lq=new A.c4(62127,"RemixIcon","flutter_remix_icon",!1)
+B.Lr=new A.c4(60166,"RemixIcon","flutter_remix_icon",!1)
+B.Ls=new A.c4(60498,"RemixIcon","flutter_remix_icon",!1)
+B.Lt=new A.c4(62087,"RemixIcon","flutter_remix_icon",!1)
+B.Lu=new A.c4(60874,"RemixIcon","flutter_remix_icon",!1)
+B.Lv=new A.c4(61887,"RemixIcon","flutter_remix_icon",!1)
+B.Lw=new A.c4(62e3,"RemixIcon","flutter_remix_icon",!1)
+B.Lx=new A.c4(60016,"RemixIcon","flutter_remix_icon",!1)
+B.Ly=new A.c4(61301,"RemixIcon","flutter_remix_icon",!1)
+B.Lz=new A.c4(60843,"RemixIcon","flutter_remix_icon",!1)
+B.LA=new A.c4(60729,"RemixIcon","flutter_remix_icon",!1)
+B.LB=new A.c4(61995,"RemixIcon","flutter_remix_icon",!1)
+B.LC=new A.c4(61978,"RemixIcon","flutter_remix_icon",!1)
+B.LD=new A.c4(60168,"RemixIcon","flutter_remix_icon",!1)
+B.LE=new A.c4(62010,"RemixIcon","flutter_remix_icon",!1)
+B.LF=new A.c4(60148,"RemixIcon","flutter_remix_icon",!1)
+B.LG=new A.c4(60722,"RemixIcon","flutter_remix_icon",!1)
+B.LH=new A.c4(61227,"RemixIcon","flutter_remix_icon",!1)
 B.LI=new A.c4(60497,"RemixIcon","flutter_remix_icon",!1)
 B.LJ=new A.c4(61944,"RemixIcon","flutter_remix_icon",!1)
 B.LK=new A.c4(61337,"RemixIcon","flutter_remix_icon",!1)
